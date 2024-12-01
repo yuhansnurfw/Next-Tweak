@@ -1,0 +1,7 @@
+#!/system/bin/sh
+
+dumpsys deviceidle enable
+dumpsys deviceidle force-inactive
+
+sleep 5s
+done;
