@@ -16,6 +16,9 @@
   <li>Disable Logcat</li>
   <li>Disable Logd</li>
   <li>disable some google apps that are not important</li>
+  
+<ol>3. Unlimited Google Photo</ol>
 
-<h5> author : @Yuhansnurfw </h5>
+<h5> Author : @yuhansnurfw </h5>
+
 <a href='http://t.me/yuhansnurfw'>Telegram</a>
