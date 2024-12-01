@@ -2,7 +2,7 @@
 
 <blockquote>Advanced tweaks that can improve your device's performance</blockquote>
 
-<ol> 1. some tweaks added </ol>
+<ol>*1. some tweaks added*</ol>
   <li> added some tweak code on the cpu </li>
   <li> set the litle core goovernor to performance </li>
   <li> set the big core goovernor to performance </li>
