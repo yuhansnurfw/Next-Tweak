@@ -1,5 +1,5 @@
-Next-Tweak Module
+<h1>Next-Tweak Module</h1>
 
-Advanced tweaks that can improve your device's performance
+<blockquote>Advanced tweaks that can improve your device's performance</blockquote>
 
 @Yuhansnurfw
