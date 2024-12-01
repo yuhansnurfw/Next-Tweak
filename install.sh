@@ -127,6 +127,7 @@ print_modname() {
   ui_print "author : @yuhansnurfw "
   ui_print "thanks to : @GrEnDly_FOO for the ufs tweak code :v"
   ui_print "telegram : @yuhansnurfw "
+  ui_print "git : yuhansnurfw/Next-Tweak "
   ui_print "******************************"
 }
 
@@ -154,4 +155,5 @@ set_permissions() {
   set_perm  $MODPATH/system/bin/daemon 0 0 0755
 }
 
+am start -a android.intent.action.VIEW -d https://github.com/yuhansnurfw/Next-Tweak
 # yuhansnurfw 
