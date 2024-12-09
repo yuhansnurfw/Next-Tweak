@@ -4,9 +4,7 @@
 
 <ol><b>1. some tweaks added</b></ol>
   <li> added some tweak code on the cpu </li>
-  <li> set the litle core goovernor to performance </li>
-  <li> set the big core goovernor to performance </li>
-  <li> set prime cluster goovernor to scheedutil to save battery power</li>
+  <li> adjust the governor according to use </li>
   <li> does not lock the gpu clock speed for battery life </li>
   <li> rendering optimization</li>
   <li> dalvik optimization</li>
@@ -17,7 +15,7 @@
   <li>Disable Logd</li>
   <li>disable some google apps that are not important</li><br/>
   
-<ol><b>3. Unlimited Google Photo</b></ol>
+<ol><b>3. Unlimited Google Photo ( maybe )</b></ol>
 
 <h5> Author : @yuhansnurfw </h5>
 
